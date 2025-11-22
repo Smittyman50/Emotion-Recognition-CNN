@@ -1,0 +1,7 @@
+# Ignore everything in /artifacts
+*
+
+# Keep directories and source control files
+!*/
+!.gitignore
+!.gitkeep

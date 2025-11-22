@@ -1,0 +1,7 @@
+# Ignore everything in /data
+*
+
+# Keep directories and source control files
+!*/
+!.gitignore
+!.gitkeep
